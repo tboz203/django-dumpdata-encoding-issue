@@ -1,0 +1,2 @@
+{"model": "app.mymodel", "pk": 1, "fields": {"name": "ascii data"}}
+{"model": "app.mymodel", "pk": 2, "fields": {"name": "unicode data\u2757"}}

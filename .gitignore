@@ -1,0 +1,17 @@
+# Hidden files
+.*
+
+# ... with specific exceptions
+!.gitignore
+!.python-version
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# sqlite databases
+*.sqlite3
