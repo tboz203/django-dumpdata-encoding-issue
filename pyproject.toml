@@ -3,7 +3,7 @@ name = "django-dumpdata-encoding-issue"
 version = "0.1.0"
 description = "A quick Django app to demonstrate a character encoding issue in `dumpdata` on Windows."
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "django~=5.1",
 ]
